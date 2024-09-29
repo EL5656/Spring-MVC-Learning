@@ -9,11 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34f4b077-adb6-44db-abc9-6c706152acd5" name="Changes" comment="Add App Configuration without XML file">
+    <list default="true" id="34f4b077-adb6-44db-abc9-6c706152acd5" name="Changes" comment="InternalResourceViewResolver">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/practice/AddController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/practice/AddController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/practice/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/practice/AppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/display.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/display.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,7 +191,7 @@
       <updated>1727592190419</updated>
       <workItem from="1727592191537" duration="5352000" />
       <workItem from="1727597576327" duration="9821000" />
-      <workItem from="1727607557460" duration="12707000" />
+      <workItem from="1727607557460" duration="14046000" />
     </task>
     <task id="LOCAL-00001" summary="Add Controller and Service">
       <created>1727615147049</created>
@@ -209,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1727618793548</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="InternalResourceViewResolver">
+      <created>1727625295863</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727625295863</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,6 +223,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add Controller and Service" />
     <MESSAGE value="Add App Configuration without XML file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add App Configuration without XML file" />
+    <MESSAGE value="InternalResourceViewResolver" />
+    <option name="LAST_COMMIT_MESSAGE" value="InternalResourceViewResolver" />
   </component>
 </project>
